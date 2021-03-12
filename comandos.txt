@@ -1,0 +1,10 @@
+// comando que me permite crear un package.json que permite ver la descripción del proyecto
+npm init --yes
+//comando que me permite descargar los módulos para levantar el servidor
+npm i express morgan 
+// express es un framework de node que me permite tirar código del lado del servidor de una manera sencilla
+// morgan nos permite ver por consola las peticiones que nos van llegando
+
+// nodemon es un modulo que reinicia el server por mi. la D es para ejecutarlo como dependencia de desarrollo, o sea, 
+//solo es en dev no cuando este desplegado
+npm i nodemon -D

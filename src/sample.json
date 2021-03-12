@@ -1,0 +1,23 @@
+[
+    {
+        "id":10,
+        "title":"Goodfellas",
+        "director":"Martin Scorsese",
+        "year":1990,
+        "duration":200
+    },
+    {
+        "id":20,
+        "title":"The Irishman",
+        "director":"Martin Scorsese",
+        "year":2019,
+        "duration":210
+    },
+    {
+        "id":30,
+        "title":"Fargo",
+        "director":"Coen Brothers",
+        "year":1996,
+        "duration":120
+    }
+]
